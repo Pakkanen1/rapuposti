@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 #coding=utf-8
 
-# Tämä skripti on massapostitusohjelman pääskripti. Skripti sisältää graafisen käyttöliittymän luonnin ja myös ohjelman toiminnallisuuden
+# Tämä skripti on massapostitusohjelman pääskripti. 
+# Skripti sisältää graafisen käyttöliittymän luonnin ja myös ohjelman toiminnallisuuden
 # Ohjelma itsessään käyttää Googlen avointa gmail-SMTP palvelua sisäänkirjautumiseen ja viestien lähetykseen.
 # Ohjelma käyttää Excel-taulukoita hakeakseen osoitteita joille haluat lähettää sähköpostia.
 # Käyttäjä syöttää oikeat solut ja lisää viestin, jonka jälkeen ohjelma hoitaa lähettämisen.
